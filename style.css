@@ -1,0 +1,25 @@
+.form-control {
+  display: inline-block;
+  width: 250px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  color: lightgray;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.jumbotron {
+  background-image: url("ufo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+  height: 125px;;
+  padding:25px;
+  text-align: center;
+}
+
